@@ -81,6 +81,11 @@ Program ini dibuat oleh :
 Kurniawan. E-mail : kurniawanajazenfone@gmail.com
 xcode.or.id
 
+**Dukungan Docker Oleh**
+--------------------------------------------
+
+[Baharsah](https://github.com/baharsah/) 
+
 
 Donasi :
 --------
